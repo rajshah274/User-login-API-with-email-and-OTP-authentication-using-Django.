@@ -29,17 +29,7 @@ This project aims to develop a secure and efficient API system for user authenti
    - Encrypted communication (to be enforced in production).
 
 ## Installation
-
-### Prerequisites
-
-- Python 3.x
-- Docker (optional but recommended)
-
-### Steps
-
-1. **Clone the repository**:
+ **Clone the repository**:
    ```sh
    git clone https://github.com/yourusername/auth_project.git
    cd auth_project
-
-  
